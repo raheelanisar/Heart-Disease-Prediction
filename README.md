@@ -43,4 +43,4 @@ health features like age, cholesterol, chest pain type, and more.
 1. Install libraries: `pip install pandas numpy matplotlib seaborn scikit-learn`
 2. Place `heart.csv` in same folder as notebook
 3. Open Jupyter Notebook
-4. Run `Heart_Disease_Raheela.ipynb`
+4. Run `Heart-Disease-Prediction.ipynb`
