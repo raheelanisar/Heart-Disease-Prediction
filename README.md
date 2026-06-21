@@ -44,3 +44,13 @@ health features like age, cholesterol, chest pain type, and more.
 2. Place `heart.csv` in same folder as notebook
 3. Open Jupyter Notebook
 4. Run `Heart-Disease-Prediction.ipynb`
+5. 
+## 📷 Project Demo
+
+http://localhost:8501/
+
+---
+
+## 🔗 Live Demo (Optional)
+If deployed on Streamlit Cloud:
+http://localhost:8501/
